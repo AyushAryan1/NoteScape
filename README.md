@@ -1,1 +1,1 @@
-# NoteScape
+# noteScape
